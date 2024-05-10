@@ -3,6 +3,7 @@ const Project = () =>{
     <div>
         
         <h1>Welcome to my project</h1>
-    </div>)
+    </div>
+    )
 };
 export default Project;
